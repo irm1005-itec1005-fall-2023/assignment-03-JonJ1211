@@ -129,12 +129,3 @@ function clearCompletedTasks() {
   //console.log("NOT YET IMPLEMENTED"); // Remove this line when you start working on the function
 }
 
-
-
-// You can write your own tests here if you would like to test
-// your code before using the automated tests
-// For example, you could run:
-//  addToDoItem("Test ToDo"); // This should add a new todo item to the array
-//  console.log(todoItems); // This should show the todo item you added
-//  removeToDoItem(0); // This should remove the todo item with ID 0 from the array
-//  markToDoItemAsCompleted(0); // This should mark the todo item with ID 0 as completed
